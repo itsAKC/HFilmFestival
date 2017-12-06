@@ -1,0 +1,13 @@
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\HFilmFestival.dll.config
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\HFilmFestival.dll
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\HFilmFestival.pdb
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\Newtonsoft.Json.dll
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\System.Net.Http.Formatting.dll
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\System.Web.Http.dll
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\System.Web.Http.WebHost.dll
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\System.Net.Http.Formatting.xml
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\System.Web.Http.xml
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\bin\System.Web.Http.WebHost.xml
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\obj\Debug\HFilmFestival.dll
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\obj\Debug\HFilmFestival.pdb
+C:\Users\itsAK\Desktop\ProjectMVC\HFilmFestival\obj\Debug\HFilmFestival.csprojResolveAssemblyReference.cache
